@@ -1,2 +1,5 @@
 print("hello world")
 print("hi")
+print("lop")
+print("kjiop")
+print("khjh")
